@@ -1,0 +1,3 @@
+[submodule "yumYard-client"]
+	path = yumYard-client
+	url = https://github.com/ssxdtxr/yumYard-client
