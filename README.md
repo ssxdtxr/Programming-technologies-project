@@ -2,10 +2,10 @@
 Проект: Мобильное приложение для обмена кулинарными рецептами "**YamYard**"
 
 ## Команда 
-- [Пальчикова Анастасия](URL "https://github.com/oneKITSUNE") - Team Lead, Бизнес-аналитик;
-- [Полянских Александр](URL "https://github.com/RekSup") - Дизайнер, QA-инженер;
-- [Терёшкин Егор](URL "https://github.com/ssxdtxr") - Frontend разработчик;
-- [Симонов Вадим](URL "https://github.com/uadiasas") - Backend разработчик.
+- [Пальчикова Анастасия](https://github.com/oneKITSUNE "") - Team Lead, Бизнес-аналитик;
+- [Полянских Александр](https://github.com/RekSup "") - Дизайнер, QA-инженер;
+- [Терёшкин Егор](https://github.com/ssxdtxr "") - Frontend разработчик;
+- [Симонов Вадим](https://github.com/uadiasas "") - Backend разработчик.
 
 # Описание проекта
 «YamYard» - мобильное приложение для обмена кулинарных рецептов.
