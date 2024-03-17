@@ -26,7 +26,7 @@
 ## Сведения о проекте
 * [Figma](https://www.figma.com/file/DohGqeWwXjjcsntfWs468S/Untitled?type=design&node-id=0-1&mode=design&t=QGa29ENDgnmAj0n3-0 "Дизайн") - дизайн приложения;
 * [YouTrack](https://onekitsune.youtrack.cloud/projects/daff63c7-b051-4123-99ae-99dc07141bea "ПО") - программное обеспечение для управления проектом;
-* [Miro](https://miro.com/welcomeonboard/NkNaTVFueWdkYVJHaGlMMW43ZW9zSWpvMjZmUmd5b1RqZkc5cTk3WDdYSWpCZ3pLWHdHUkcxMk40UWJLcERzWHwzNDU4NzY0NTY1NzY4NjYwMTcwfDI=?share_link_id=245840664154 "Онлайн-доска") -  виртуальная масштабируемая доска.
+* [Miro](https://miro.com/app/board/uXjVNgEXMZ0=/?share_link_id=763801210761 "Онлайн-доска") -  виртуальная масштабируемая доска.
 
 ### Наши средства реализации:
 - Front: React native;
