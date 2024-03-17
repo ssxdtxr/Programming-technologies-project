@@ -31,7 +31,7 @@
 ### Наши средства реализации:
 - Front: React native;
 - Back: Django, Django REST framework;
-- СУБД: SQLite;
+- СУБД: SQLite, PostgreSQL;
 - Дизайн: Figma;
 - Диаграммы: Miro, Draw.io. 
 
