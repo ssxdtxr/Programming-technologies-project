@@ -24,9 +24,15 @@
 - Внедрение системы оценок для рецептов, позволяющей пользователям ставить оценку блюдам и отмечать их как избранные.
 
 ## Сведения о проекте
-* [Figma](https://www.figma.com/file/DohGqeWwXjjcsntfWs468S/Untitled?type=design&node-id=0-1&mode=design&t=QGa29ENDgnmAj0n3-0 "Дизайн") - дизайн приложения;
+#### Дизайн
+* [Figma](https://www.figma.com/file/DohGqeWwXjjcsntfWs468S/Untitled?type=design&node-id=0-1&mode=design&t=QGa29ENDgnmAj0n3-0 "Дизайн") - разработка дизайна приложения.
+#### Аналитика
 * [YouTrack](https://onekitsune.youtrack.cloud/projects/daff63c7-b051-4123-99ae-99dc07141bea "ПО") - программное обеспечение для управления проектом;
-* [Miro](https://miro.com/app/board/uXjVNgEXMZ0=/?share_link_id=763801210761 "Онлайн-доска") -  виртуальная масштабируемая доска.
+* [Miro](https://miro.com/app/board/uXjVNgEXMZ0=/?share_link_id=763801210761 "Онлайн-доска") -  виртуальная масштабируемая доска;
+* [AppMetrica](https://appmetrica.yandex.ru/overview?appId=4589335&period=week&group=day&currency=rub&accuracy=medium "") - инструмент для трекинга и аналитики вашего приложения. 
+> Для того, чтобы просмотреть инфформацию в AppMetrica создан аккаунт для проверяющих: 
+> * Логин: tpproject / TPproject@yandex.ru
+> * Пароль: 1Q2W3E4R5T6Y7Uasdfg
 
 ### Наши средства реализации:
 - Front: React native;
