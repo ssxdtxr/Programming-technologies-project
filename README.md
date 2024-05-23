@@ -30,7 +30,7 @@
 * [YouTrack](https://onekitsune.youtrack.cloud/projects/daff63c7-b051-4123-99ae-99dc07141bea "ПО") - программное обеспечение для управления проектом;
 * [Miro](https://miro.com/app/board/uXjVNgEXMZ0=/?share_link_id=763801210761 "Онлайн-доска") -  виртуальная масштабируемая доска;
 * [AppMetrica](https://appmetrica.yandex.ru/overview?appId=4589335&period=week&group=day&currency=rub&accuracy=medium "") - инструмент для трекинга и аналитики вашего приложения. 
-> Для того, чтобы просмотреть инфформацию в AppMetrica создан аккаунт для проверяющих: 
+> Для того, чтобы просмотреть информацию в AppMetrica создан аккаунт для проверяющих: 
 > * Логин: tpproject / TPproject@yandex.ru
 > * Пароль: 1Q2W3E4R5T6Y7Uasdfg
 
