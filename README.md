@@ -4,15 +4,14 @@
 
 ## Команда 
 - [Пальчикова Анастасия](https://github.com/oneKITSUNE "") - Team Lead, Бизнес-аналитик;
-- [Полянских Александр](https://github.com/RekSup "") - Дизайнер, QA-инженер;
 - [Терёшкин Егор](https://github.com/ssxdtxr "") - Frontend разработчик;
 - [Симонов Вадим](https://github.com/uadiasas "") - Backend разработчик.
 
 # Описание проекта
 «**YumYard**» - мобильное приложение для обмена кулинарных рецептов.
-Оно созданное для любителей кулинарии и всех, кто хочет расширить свои гастрономические горизонты. Приложение предлагает уникальную платформу для обмена кулинарными рецептами, где пользователи могут не только делиться своими любимыми блюдами, но и находить новые идеи для кулинарных экспериментов.
+Оно созданно для любителей кулинарии и всех, кто хочет расширить свои гастрономические горизонты. Приложение предлагает уникальную платформу для обмена кулинарными рецептами, где пользователи могут не только делиться своими любимыми блюдами, но и находить новые идеи для кулинарных экспериментов.
  ### Цели и функционал приложения
-*Приложение будет предоставлять следующую функциональность:*
+*Функционал:*
 - Навигация по рецептам; 
 - Возможность добавлять новые рецепты с текстовым описанием и фотографиями. Так же можно просматривать рецепты, оценивать другие и комментировать их;
 - Возможность редактирования и управления своими рецептами для авторов;
@@ -24,11 +23,17 @@
 - Внедрение системы оценок для рецептов, позволяющей пользователям ставить оценку блюдам и отмечать их как избранные.
 
 ## Сведения о проекте
-* [Figma](https://www.figma.com/file/DohGqeWwXjjcsntfWs468S/Untitled?type=design&node-id=0-1&mode=design&t=QGa29ENDgnmAj0n3-0 "Дизайн") - дизайн приложения;
+#### Дизайн
+* [Figma](https://www.figma.com/file/DohGqeWwXjjcsntfWs468S/Untitled?type=design&node-id=0-1&mode=design&t=QGa29ENDgnmAj0n3-0 "Дизайн") - разработка дизайна приложения.
+#### Аналитика
 * [YouTrack](https://onekitsune.youtrack.cloud/projects/daff63c7-b051-4123-99ae-99dc07141bea "ПО") - программное обеспечение для управления проектом;
-* [Miro](https://miro.com/app/board/uXjVNgEXMZ0=/?share_link_id=763801210761 "Онлайн-доска") -  виртуальная масштабируемая доска.
+* [Miro](https://miro.com/app/board/uXjVNgEXMZ0=/?share_link_id=763801210761 "Онлайн-доска") -  виртуальная масштабируемая доска;
+* [AppMetrica](https://appmetrica.yandex.ru/overview?appId=4589335&period=week&group=day&currency=rub&accuracy=medium "") - инструмент для трекинга и аналитики вашего приложения. 
+> Для того, чтобы просмотреть информацию в AppMetrica создан аккаунт для проверяющих: 
+> * Логин: tpproject / TPproject@yandex.ru
+> * Пароль: 1Q2W3E4R5T6Y7Uasdfg
 
-### Наши средства реализации:
+#### Наши средства реализации:
 - Front: React native;
 - Back: Django, Django REST framework;
 - СУБД: SQLite, PostgreSQL;
@@ -42,4 +47,6 @@
 
 ## Презентация проекта
 * [Презентация ТЗ](https://github.com/ssxdtxr/Programming-technologies-project/tree/master/%D0%9F%D1%80%D0%B5%D0%B7%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D1%8F%20%D0%A2%D0%97);
-* [Видеопрезентация ТЗ](https://github.com/ssxdtxr/Programming-technologies-project/tree/master/%D0%92%D0%B8%D0%B4%D0%B5%D0%BE%D0%BF%D1%80%D0%B5%D0%B7%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D1%8F).
+* [Видеопрезентация ТЗ](https://github.com/ssxdtxr/Programming-technologies-project/tree/master/%D0%92%D0%B8%D0%B4%D0%B5%D0%BE%D0%BF%D1%80%D0%B5%D0%B7%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D1%8F);
+* [Презентация сценариев использования](https://github.com/ssxdtxr/Programming-technologies-project/tree/master/%D0%9F%D1%80%D0%B5%D0%B7%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D1%8F%20%D1%81%D1%86%D0%B5%D0%BD%D0%B0%D1%80%D0%B8%D0%B5%D0%B2);
+* [Видео презентация сценариев использования](https://youtube.com/shorts/lb-zAinUEvE?si=S74ysLdFZB5ywc2d).
