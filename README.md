@@ -28,7 +28,7 @@
 #### Аналитика
 * [YouTrack](https://onekitsune.youtrack.cloud/projects/daff63c7-b051-4123-99ae-99dc07141bea "ПО") - программное обеспечение для управления проектом;
 * [Miro](https://miro.com/app/board/uXjVNgEXMZ0=/?share_link_id=763801210761 "Онлайн-доска") -  виртуальная масштабируемая доска;
-* [AppMetrica](https://appmetrica.yandex.ru/overview?appId=4589335&period=week&group=day&currency=rub&accuracy=medium "") - инструмент для трекинга и аналитики вашего приложения. 
+* [AppMetrica](https://appmetrica.yandex.ru/overview?appId=4589335&period=week&group=day&currency=rub&accuracy=medium "") - инструмент для аналитики нашего приложения. 
 > Для того, чтобы просмотреть информацию в AppMetrica создан аккаунт для проверяющих: 
 > * Логин: tpproject / TPproject@yandex.ru
 > * Пароль: 1Q2W3E4R5T6Y7Uasdfg
@@ -36,17 +36,21 @@
 #### Наши средства реализации:
 - Front: React native;
 - Back: Django, Django REST framework;
-- СУБД: SQLite, PostgreSQL;
+- СУБД: SQLite;
 - Дизайн: Figma;
 - Диаграммы: Miro, Draw.io. 
 
 ## Документация проекту
 * [Оформительские задачи](https://github.com/ssxdtxr/Programming-technologies-project/tree/master/%D0%A1%D0%BE%D0%BF%D1%80%D0%BE%D0%B2%D0%BE%D0%B4%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D0%B5%20%D0%BF%D0%B8%D1%81%D1%8C%D0%BC%D0%BE);
+* [Сопроводительное письмо](https://github.com/ssxdtxr/Programming-technologies-project/blob/master/%D0%A1%D0%BE%D0%BF%D1%80%D0%BE%D0%B2%D0%BE%D0%B4%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D0%B5%20%D0%BF%D0%B8%D1%81%D1%8C%D0%BC%D0%BE/%D0%A1%D0%BE%D0%BF%D1%80%D0%BE%D0%B2%D0%BE%D0%B4%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D0%B5%20%D0%BF%D0%B8%D1%81%D1%8C%D0%BC%D0%BE.pdf);
 * [Техническое задание](https://github.com/ssxdtxr/Programming-technologies-project/tree/master/%D0%A2%D0%B5%D1%85%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B5_%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5);
 * [Курсовая работа](https://github.com/ssxdtxr/Programming-technologies-project/tree/master/%D0%9A%D1%83%D1%80%D1%81%D0%BE%D0%B2%D0%B0%D1%8F%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0).
 
 ## Презентация проекта
 * [Презентация ТЗ](https://github.com/ssxdtxr/Programming-technologies-project/tree/master/%D0%9F%D1%80%D0%B5%D0%B7%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D1%8F%20%D0%A2%D0%97);
-* [Видеопрезентация ТЗ](https://github.com/ssxdtxr/Programming-technologies-project/tree/master/%D0%92%D0%B8%D0%B4%D0%B5%D0%BE%D0%BF%D1%80%D0%B5%D0%B7%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D1%8F);
 * [Презентация сценариев использования](https://github.com/ssxdtxr/Programming-technologies-project/tree/master/%D0%9F%D1%80%D0%B5%D0%B7%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D1%8F%20%D1%81%D1%86%D0%B5%D0%BD%D0%B0%D1%80%D0%B8%D0%B5%D0%B2);
-* [Видео презентация сценариев использования](https://youtube.com/shorts/lb-zAinUEvE?si=S74ysLdFZB5ywc2d).
+* [Презентация для защиты проекта](https://github.com/ssxdtxr/Programming-technologies-project/tree/master/%D0%9F%D1%80%D0%B5%D0%B7%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D1%8F%20%D0%B4%D0%BB%D1%8F%20%D0%B7%D0%B0%D1%89%D0%B8%D1%82%D1%8B%20%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B0).
+
+## Видео по проекту
+* [Видео презентация сценариев использования](https://youtube.com/shorts/lb-zAinUEvE?si=S74ysLdFZB5ywc2d);
+* [Видеопрезентация ТЗ](https://github.com/ssxdtxr/Programming-technologies-project/tree/master/%D0%92%D0%B8%D0%B4%D0%B5%D0%BE%D0%BF%D1%80%D0%B5%D0%B7%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D1%8F).
