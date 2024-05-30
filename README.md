@@ -34,8 +34,8 @@
 > * Пароль: 1Q2W3E4R5T6Y7Uasdfg
 
 #### Наши средства реализации:
-- Front: React native;
-- Back: Django, Django REST framework;
+- Front: React native, [ссылка на GitHub фронта](https://github.com/ssxdtxr/yumYard-client/tree/66716cddf73fcdfdd34908b145986185e2f5730a);
+- Back: Django, Django REST framework, [ссылка на GitHub бека](https://github.com/uadiasas/yamYard-server);
 - СУБД: SQLite;
 - Дизайн: Figma;
 - Диаграммы: Miro, Draw.io. 
